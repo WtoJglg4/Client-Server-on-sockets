@@ -1,0 +1,4 @@
+INFO: client connected to server localhost:2020 2023-03-19 19:44:17.4464502 +0300 MSK m=+0.010024901
+INFO: message to server: Glazov Vadim M3O-109B-22 2023-03-19 19:44:22.4474434 +0300 MSK m=+5.011018101
+INFO: message from server: 22-B901-O3M midaV vozalG. Server written by Glazov Vadim M3O-109B-22 2023-03-19 19:44:25.4616971 +0300 MSK m=+8.025271801
+1
