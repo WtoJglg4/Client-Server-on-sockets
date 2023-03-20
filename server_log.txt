@@ -1,0 +1,23 @@
+INFO: server started 2023-03-19 19:44:09.9511194 +0300 MSK m=+0.004982701
+INFO: client connected 2023-03-19 19:44:17.4464502 +0300 MSK m=+7.500313501
+INFO: massage from client: Glazov Vadim M3O-109B-222023-03-19 19:44:22.4476411 +0300 MSK m=+12.501504401
+INFO: massage to client: 22-B901-O3M midaV vozalG. Server written by Glazov Vadim M3O-109B-22
+2023-03-19 19:44:25.4616971 +0300 MSK m=+15.515560401
+INFO: client has been diconnected 2023-03-19 19:44:17.4464502 +0300 MSK m=+7.500313501
+
+
+
+INFO: client connected 2023-03-19 19:40:14.9961077 +0300 MSK m=+144.055455601
+INFO: massage from client: Glazov Vadim M3O-109B-222023-03-19 19:40:14.9977289 +0300 MSK m=+144.057076801
+INFO: massage to client: 22-B901-O3M midaV vozalG. Server written by Glazov Vadim M3O-109B-22
+2023-03-19 19:40:18.0001271 +0300 MSK m=+147.059475001
+INFO: client has been diconnected 2023-03-19 19:40:14.9961077 +0300 MSK m=+144.055455601
+
+O: client has been diconnected 2023-03-19 19:23:25.2117405 +0300 MSK m=+2.605376401
+
+INFO: massage to client: 22-B901-O3M midaV vozalG. Server written by Glazov Vadim M3O-109B-22
+2023-03-19 19:23:40.6965523 +0300 MSK m=+18.090188201
+INFO: client has been diconnected 2023-03-19 19:23:27.1091452 +0300 MSK m=+4.502781101
+
+INFO: client has been diconnected 2023-03-19 19:23:26.1099775 +0300 MSK m=+3.503613401
+
